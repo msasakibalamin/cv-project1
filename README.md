@@ -21,7 +21,7 @@
 
           </div>
           <div class="header1">
-              <p><a href="mailto:msasakibalamin0">Email: msasakibalamin0@gmail.com</a></p>
+              <p><a href="mailto:msasakibalamin0@gmail.com">Email: msasakibalamin0@gmail.com</a></p>
               <p><a href="htpps://msainfo.tk">Website: msainfo.tk</a></p>
               <p><a href="tele:+8801762868864">Phone: +8801762868864</a></p>
               
@@ -100,7 +100,7 @@
                             <h5>2015-2016 GPA : 4.68</h5>
                             <P>Leading School</P>
                             <p>Shyampur High School, Joypurhat</p>
-                            <p><a href="https://msainfo.tk">https://msainfo.tk</a></p>
+                            <p><a href= "https://msainfo.tk/" >https://msainfo.tk</a></p>
 
 
                         </div>
@@ -123,7 +123,8 @@
        
 
         <footer class="bottom"> <!--footer start -->
-            <a href="htpps://facebook.com/msasakibalamin1">Facebook</a>
+            <a href= "https://facebook.com/msasakibalamin0" >Facebook</a>
+       
             <a href="https://www.youtube.com/channel/UC9-70ntuFavnwi88IMVTGSw">Youtube</a>
             <a href="https://twitter.com/msasakibalamin">Twitter</a>
             <a href="https://www.instagram.com/msa_sakib_alamin/">Instagram</a>
